@@ -1,0 +1,15 @@
+22bi13304@Nguyen Trong Minh
+	ADS@18.42@13.09
+	OOP@11.43@18.03
+	APP@16.58@2.84
+END@
+22bi13254@Nguyen Manh Hung
+	ADS@3.52@12.08
+	OOP@8.9@15.35
+	APP@17.22@9.48
+END@
+22bi13039@Tran Luong Hoang Anh
+	ADS@16.9@0.59
+	OOP@7.77@9.26
+	APP@15.76@5.05
+END@
